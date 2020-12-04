@@ -8,7 +8,7 @@ English
 My name is João Paulo Batista da Silva, I am a Front-End programmer and I develop several web sites. I am currently a student at the Federal Institute of Alagoas - IFAL.
 
 <p align="left">
-  🦄 Skills: <strong>HTML5, CSS3, JavaScript, Sass, Bootstrap, Materialize e UI/UX Design.</strong>
+  🦄 Skills: <strong>HTML5, CSS3, JavaScript, Sass, Bootstrap.</strong>
 </p>
 <p align="left">
   <a href="https://www.instagram.com/_paulinhosilva80/?hl=pt-br" alt="Instagram">
